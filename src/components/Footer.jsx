@@ -84,7 +84,7 @@ const Footer = () => {
         <p>
           <p className=" text-center py-4">
             @copyright developed by
-            <span className=" text-brightColor"> jr developer</span> | All
+            <span className=" text-brightColor"> alpha developers</span> | All
             rights reserved
           </p>
         </p>
